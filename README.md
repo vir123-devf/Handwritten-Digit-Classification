@@ -32,13 +32,7 @@ This project performs handwritten digit classification using an **Artificial Neu
    git clone https://github.com/vir123-devf/handwritten-digit-classification.git
    cd handwritten-digit-classification
    ```
-
-2. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run the notebook**
+2. **Run the notebook**
    ```bash
    jupyter notebook Handwritten_Digit_Classification.ipynb
    ```
